@@ -1,6 +1,7 @@
 # `marccarre/ssh-to-ansible-homebrew-tap`
 
 Homebrew Tap for `s2a`.
+Source code: https://github.com/marccarre/ssh-to-ansible
 
 ## How do I install these formulae?
 
