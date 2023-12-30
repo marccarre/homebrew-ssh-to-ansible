@@ -22,3 +22,5 @@ brew tap-new marccarre/ssh-to-ansible --branch main
 ```
 
 following this conversation: https://github.com/Homebrew/homebrew-core/pull/153968.
+The repository was then renamed to be `ssh-to-ansible-homebrew-tap`, not to
+conflict with https://github.com/marccarre/ssh-to-ansible.
