@@ -5,9 +5,9 @@ Source code: https://github.com/marccarre/ssh-to-ansible
 
 ## How do I install these formulae?
 
-`brew install marccarre/ssh-to-ansible/s2a`
+`brew install marccarre/ssh-to-ansible-homebrew-tap/s2a`
 
-Or `brew tap marccarre/ssh-to-ansible` and then `brew install s2a`.
+Or `brew tap marccarre/ssh-to-ansible-homebrew-tap` and then `brew install s2a`.
 
 ## Documentation
 
